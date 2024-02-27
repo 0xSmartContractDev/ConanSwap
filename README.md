@@ -1,4 +1,6 @@
-# conanswap V3
+# This is a Fork of Uniswap V3. No Monetory purpose is involved. Only to test!!
+
+# Conanswap V3
 
 [![Lint](https://github.com/conanswap/conanswap-v3-core/actions/workflows/lint.yml/badge.svg)](https://github.com/conanswap/conanswap-v3-core/actions/workflows/lint.yml)
 [![Tests](https://github.com/conanswap/conanswap-v3-core/actions/workflows/tests.yml/badge.svg)](https://github.com/conanswap/conanswap-v3-core/actions/workflows/tests.yml)
@@ -9,10 +11,6 @@
 This repository contains the core smart contracts for the conanswap V3 Protocol.
 For higher level contracts, see the [conanswap-v3-periphery](https://github.com/conanswap/conanswap-v3-periphery)
 repository.
-
-## Bug bounty
-
-This repository is subject to the conanswap V3 bug bounty program, per the terms defined [here](./bug-bounty.md).
 
 ## Local deployment
 
